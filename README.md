@@ -21,10 +21,13 @@ https://drive.google.com/file/d/1P_fhVKwVCKDx98pAI17GzFlnk0EYp7gC/view?usp=shari
 ![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Logo_LevantamientoEnApuros.png)
 
 ## GDD
-GDD resumido de los aspectos más esenciales del juego.
 
 [GDD de Levamiento en apuros](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Levantamiento%20en%20apuros.pdf)
 
+
+GDD resumido de los aspectos más esenciales del juego.
+
+Imagen de ejemplo:
 ![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/EjemploGDD.png)
 
 
