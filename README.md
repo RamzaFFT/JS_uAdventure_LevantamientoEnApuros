@@ -10,7 +10,7 @@ Consiste en crear una aventura geoposicionada con uAdventure (herramienta de Uni
 
 Es un juego serio a cerca del 2 de mayo de 1808, enfocado a que todo el mundo aprenda, pero sobretodo los estudiantes de Colegio e Instituto.
 
-Es una propuesta divertida en la que el jugador, a demás de darse un paseo por el centro de Madrid, vivirá una historia única que le hará entender y recordar los acontecimientos más importantes del 2 de mayo.
+Es una **propuesta divertida** en la que el jugador, a demás de darse un paseo por el centro de Madrid, **vivirá una historia única que le hará entender y recordar los acontecimientos más importantes del 2 de mayo**.
 
 ## Importación del proyecto
 
@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1P_fhVKwVCKDx98pAI17GzFlnk0EYp7gC/view?usp=shari
 
 GDD resumido de los aspectos más esenciales del juego.
 
-Imagen de ejemplo:
+**Imagen de ejemplo:**
 ![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/EjemploGDD.png)
 
 
