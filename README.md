@@ -22,10 +22,10 @@ https://drive.google.com/drive/folders/1eHUE8CoHK2_4F0LJiF2rcb4gG3OizOMa?usp=sha
 
 ## GDD
 
-[GDD de Despiojados](https://github.com/RamzaFFT/JS_uAdventure_Desp/blob/master/Despiojados_GDD.pdf)
+[GDD de Levamiento en apuros](https://github.com/RamzaFFT/JS_uAdventure_Desp/blob/master/Despiojados_GDD.pdf)
 
 
 ## Vídeo gameplay del juego
 
-[Gameplay de Despiojados](https://drive.google.com/file/d/1dF9ml_vj_JiHNSU8g2bl-E84DO-2bQya/view?usp=sharing)
+[Gameplay de Levamiento en apuros](https://drive.google.com/file/d/1dF9ml_vj_JiHNSU8g2bl-E84DO-2bQya/view?usp=sharing)
 
