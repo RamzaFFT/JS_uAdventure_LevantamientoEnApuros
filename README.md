@@ -16,13 +16,13 @@ Es una propuesta divertida en la que el jugador, a demás de darse un paseo por 
 
 Enlace a google drive para bajar el proyecto entero: 
 
-https://drive.google.com/drive/folders/1eHUE8CoHK2_4F0LJiF2rcb4gG3OizOMa?usp=sharing
+https://drive.google.com/file/d/1P_fhVKwVCKDx98pAI17GzFlnk0EYp7gC/view?usp=sharing
 
 ![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Logo_LevantamientoEnApuros.png)
 
 ## GDD
 
-[GDD de Levamiento en apuros](https://github.com/RamzaFFT/JS_uAdventure_Desp/blob/master/Despiojados_GDD.pdf)
+[GDD de Levamiento en apuros](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Levantamiento%20en%20apuros.pdf)
 
 
 ## Vídeo gameplay del juego
