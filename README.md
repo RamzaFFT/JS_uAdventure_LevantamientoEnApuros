@@ -35,5 +35,5 @@ GDD resumido de los aspectos más esenciales del juego.
 
 ## Vídeo gameplay del juego
 
-[Gameplay de Levamiento en apuros](https://drive.google.com/file/d/1dF9ml_vj_JiHNSU8g2bl-E84DO-2bQya/view?usp=sharing)
+[Gameplay de Levamiento en apuros](https://drive.google.com/file/d/1JM9n8AWMAnktst-vf4cEjLe6MiMgUa6t/view?usp=sharing)
 
