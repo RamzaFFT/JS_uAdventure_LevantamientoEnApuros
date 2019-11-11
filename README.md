@@ -3,7 +3,7 @@ Práctica 3 de la asignatura Juegos Serios de la UCM
 
 Consiste en crear una aventura geoposicionada con uAdventure (herramienta de Unity del grupo eUCM Development Community).
 
-![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Logo_LevantamientoEnApuros.png)
+![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/JS_Logo2.png)
 
 ## Introducción
 **LEVANTAMIENTO EN APUROS** es el juego que hemos creado el Grupo 1 para la práctica 3 de la asignatura **JUEGOS SERIOS** en la **Universidad Complutense de Madrid**. 
@@ -18,6 +18,7 @@ Enlace a google drive para bajar el proyecto entero:
 
 https://drive.google.com/drive/folders/1eHUE8CoHK2_4F0LJiF2rcb4gG3OizOMa?usp=sharing
 
+![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Logo_LevantamientoEnApuros.png)
 
 ## GDD
 
