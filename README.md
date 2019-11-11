@@ -12,6 +12,8 @@ Es un juego serio a cerca del 2 de mayo de 1808, enfocado a que todo el mundo ap
 
 Es una **propuesta divertida** en la que el jugador, a demás de darse un paseo por el centro de Madrid, **vivirá una historia única que le hará entender y recordar los acontecimientos más importantes del 2 de mayo**.
 
+El proyecto cuenta con una liencia [GNU General Public License v3.0](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/LICENSE), pudiendo así ser distribuida de forma libre siempre y cuando sea sin ánimo de lucro.
+
 ## Importación del proyecto
 
 Enlace a google drive para bajar el proyecto entero: 
