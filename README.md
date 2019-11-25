@@ -37,3 +37,6 @@ GDD resumido de los aspectos más esenciales del juego.
 
 [Gameplay de Levamiento en apuros](https://drive.google.com/file/d/1JM9n8AWMAnktst-vf4cEjLe6MiMgUa6t/view?usp=sharing)
 
+## Créditos
+
+![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Cre%CC%81ditos%20y%20Referencias/Credits.png)
