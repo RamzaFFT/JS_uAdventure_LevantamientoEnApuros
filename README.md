@@ -1,6 +1,8 @@
 # JS uAdventure LEVANTAMIENTO EN APUROS (2 de mayo 1808)
 Práctica 3 de la asignatura Juegos Serios de la UCM
 
+![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Cre%CC%81ditos%20y%20Referencias/InfoProyectoJS.png)
+
 Consiste en crear una aventura geoposicionada con uAdventure (herramienta de Unity del grupo eUCM Development Community).
 
 ![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/JS_Logo2.png)
